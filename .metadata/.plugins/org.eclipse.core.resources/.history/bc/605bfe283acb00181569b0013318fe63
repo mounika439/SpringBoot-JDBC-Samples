@@ -1,0 +1,5 @@
+package com.springdemo.example.service;
+
+public interface EmpService {
+
+}

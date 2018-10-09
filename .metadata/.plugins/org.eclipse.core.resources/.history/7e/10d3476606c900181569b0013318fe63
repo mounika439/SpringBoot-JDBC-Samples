@@ -1,0 +1,9 @@
+package com.springBoot.demo.controller;
+
+@RestController
+public class Controller {
+	
+	
+	
+
+}

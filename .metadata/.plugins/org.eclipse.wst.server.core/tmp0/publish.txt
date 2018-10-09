@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Oct 05 19:26:10 CDT 2018
+org.eclipse.jst.j2ee.server\:myMVCProject=/Users/mounikauppala/Downloads/apache-tomcat-9.0.12/wtpwebapps/myMVCProject
+org.eclipse.jst.j2ee.server\:/binary\:/Users/mounikauppala/.m2/repository/org/springframework/spring-web/5.1.0.RELEASE/spring-web-5.1.0.RELEASE.jar=/Users/mounikauppala/Downloads/apache-tomcat-9.0.12/wtpwebapps/myMVCProject/WEB-INF/lib/spring-web-5.1.0.RELEASE.jar

@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/hb-05-many-to-many?useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC&amp;useSSL=false
+spring.datasource.username=hbstudent
+spring.datasource.password=hbstudent
+spring.jpa.database-platform=org.hibernate.dialect.MySQL5Dialect
+

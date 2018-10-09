@@ -1,0 +1,5 @@
+package com.springdemo.example.model;
+
+public class Employee {
+
+}

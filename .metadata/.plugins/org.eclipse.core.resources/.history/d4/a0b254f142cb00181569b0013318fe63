@@ -1,0 +1,19 @@
+package com.springdemo.example.service;
+
+import java.util.List;
+
+import com.springdemo.example.DAO.EmpDAO;
+import com.springdemo.example.model.Employee;
+
+public interface EmpService extends EmpDAO {
+	
+	@Override
+	public void save(Employee employee);
+	public void update(Employee employee);
+	public void delete(int id);
+	public Employee getEmpById(int id);  
+	public List<Employee> getEmployees(); 
+
+
+
+}

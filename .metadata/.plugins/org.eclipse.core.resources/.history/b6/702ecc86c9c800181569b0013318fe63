@@ -1,0 +1,7 @@
+package com.mvc.main.service;
+
+import com.mvc.main.DAO.EmpDAO;
+
+public interface EmpService extends EmpDAO {
+
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h3> Employee Verification Form</h3>
+
+<br><br>
+
+User name: ${param.username}
+Password : ${param.password}
+
+
+<br><br>
+
+The message: ${message}
+
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+package com.springdemo.example.DAO;
+
+public class EmpDaoImpl implements EmpDAO {
+
+}
